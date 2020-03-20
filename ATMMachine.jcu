@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>RandMagicSquare</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>ATMMachine</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>RandMagicSquare</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\..\MagicSquare\RandMagicSquare\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\..\MagicSquare\RandMagicSquare\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\ATMMachine.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\MagicSquare\RandMagicSquare\src\RandMagicSquare.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\CC2\activities_check\Calculate1-3 &amp; InputChar\Calculate2\src\Calculate1.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\CC2\activities_check\Calculate1-3 &amp; InputChar\Calculate2\src\Calculate3.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\CC2\activities_check\Calculate1-3 &amp; InputChar\Calculate2\src\Calculate2.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ATMMachine</label>
+		<id>59</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>ATMMachine.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ATMMachine.jcp</path>
+		</project>
+		<project>
+			<path>..\..\MagicSquare\RandMagicSquare\RandMagicSquare.jcp</path>
+		</project>
+	</projects>
+</workspace>
